@@ -2,7 +2,7 @@
 
 Sistema de Gestión de Implementos Deportivos
 
---
+---
 
 Integrantes del Grupo:
 Juan Rodriguez
