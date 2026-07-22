@@ -5,9 +5,9 @@ Sistema de Gestión de Implementos Deportivos
 ---
 
 Integrantes del Grupo:
-Juan Rodriguez
-Johan Morales
-Josue Vargas
+*Juan Rodriguez
+*Johan Morales
+*Josue Vargas
 
 ---
 
