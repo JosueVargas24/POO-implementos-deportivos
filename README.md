@@ -1,6 +1,6 @@
 ---
 
-* Sistema de Gestión de Implementos Deportivos
+Sistema de Gestión de Implementos Deportivos
 
 ---
 
